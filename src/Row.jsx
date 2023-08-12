@@ -20,7 +20,7 @@ function Row({ title, fetchUrl, isLargeRow = false }) {
     console.log(movies);
 
     return (
-        <div className='row'>
+        <div className='Row'>
             <h2>{title}</h2>
 
             <div className="row__posters">

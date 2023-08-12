@@ -43,7 +43,7 @@ function HomeScreen() {
                 isLargeRow={false}
             />
             <Row
-                title='Romance Moview'
+                title='Romance Movies'
                 fetchUrl={requests.fetchRomanceMovies}
                 isLargeRow={false}
             />
